@@ -44,4 +44,4 @@ print(n[1, 1, 2])
 print(n[-1, -1, -1])
 print(n[-2, -2, -2])
 
-print("Axel Guzman NC 0070")
+print("Axel Guzman NC = 0070")

@@ -8,6 +8,6 @@ num=5: Indica la cantidad de números que se van a generar, en este caso, 5.
 linspace() es una función de NumPy que genera una cantidad específica de números distribuidos uniformemente entre un valor inicial y uno final.
 
 ## el codigo
-![alt text](image-6.png)
+![alt text](image-7.png)
 ## el resultado
 ![alt text](image-5.png)
